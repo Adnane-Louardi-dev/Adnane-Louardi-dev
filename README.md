@@ -1,6 +1,5 @@
 [![GitHubHeader](https://user-images.githubusercontent.com/80434746/142708394-f5a2dacf-345b-4bb2-b3e2-2cb5307d9a11.png)](https://adnane-louardi.vercel.app)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://adnane-louardi.vercel.app)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/adnane-louardi-dev)
 
 ![Visits Badge](https://img.shields.io/github/followers/adnane-louardi-dev?logoColor=blue&style=social)
