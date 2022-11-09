@@ -9,7 +9,7 @@
 
 I’m Adnane, a junior MERN stack programmer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-- 🌱 I’m currently learning Mongodb
+- 🌱 I’m currently learning dunno.js
 - 👯 I’m looking to collaborate on Express.js repo
 - ⚡ Fun fact: i dunno how to centre a div hahahaha!!!
 
